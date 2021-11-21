@@ -38,13 +38,13 @@ Store backup files in the `backup` folder, in the according sub-folder. Organize
 Store creative files in the `creative` folder, in the according sub-folder.
 
 #### Design
-Store vector design files in the `design` folder, for example logo, UI, and other design files. Common filetypes you can put here are for example `afdesign`, `ai`, `svg`, etc.
+Store vector design files in the `design` folder, for example logo, UI, and other design files. Common files you can put here are for example `*.afdesign`, `*.ai`, `*.svg`, etc.
 
 #### Photo
-Store image editor files in the `photo` folder, for example compositor, post-production, and other photo editor files. Common filetypes you can put here are for example `afphoto`, `psd`, `xcf`, etc.
+Store image editor files in the `photo` folder, for example compositor, post-production, and other photo editor files. Common files you can put here are for example `*.afphoto`, `*.psd`, `*.xcf`, etc.
 
 #### Pub
-Store desktop publishing files in the `pub` folder, for example digital, and print publishing files. Common filetypes you can put here are for example `afpub`, `indd`, `sla`, etc.
+Store desktop publishing files in the `pub` folder, for example digital, and print publishing files. Common files you can put here are for example `*.afpub`, `*.indd`, `*.sla`, etc.
 
 ### Dev
 Store web development files in the `dev` folder, in the according application sub-folder.
@@ -53,7 +53,7 @@ Store web development files in the `dev` folder, in the according application su
 Store application in the `app` sub-folder. You can have multiple application sub-folders, if needed. Name application subfolders to match their Git repositories', for example `project-folder-structure` for this repository. Create VirtualHosts for each of these folders.
 
 ### Doc
-Store document files in the `doc` folder, for example presentation, spreadsheet, word processor, and other text document files. Common filetypes you can put here are for example `docx`, `pptx`, `xlsx`, etc.
+Store document files in the `doc` folder, for example presentation, spreadsheet, word processor, and other text document files. Common files you can put here are for example `*.docx`, `*.pptx`, `*.xlsx`, etc.
 
 ### Img
 Store image files in the `img` folder.
@@ -68,7 +68,7 @@ Store outgoing files in the `out` folder, in the according sub-folder. Organize 
 Store visualization files in the `viz` folder, in the according sub-folder.
 
 #### 3d
-Store 3d files in the `3d` folder, for example 3d model, material, and other drawing files. Common filetypes you can put here are for example `blend`, `c4d`, `max`, etc.
+Store 3d files in the `3d` folder, for example 3d model, material, and other drawing files. Common files you can put here are for example `*.blend`, `*.c4d`, `*.max`, etc.
 
 #### Render
 Store rendered files in the `render` folder, for example animation, image, and other output files.
