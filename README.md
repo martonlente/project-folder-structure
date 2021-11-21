@@ -32,9 +32,11 @@ Use this folder structure layout.
 ```
 
 ### Backup
+---
 Store backup files in the `backup` folder, in the according sub-folder. Organize sub-folders by date, for example store files backed up on 1st January 2021 in sub-folder `210101`.
 
 ### Creative
+---
 Store creative files in the `creative` folder, in the according sub-folder.
 
 #### Design
@@ -47,24 +49,30 @@ Store image editor files in the `photo` folder, for example compositor, post-pro
 Store desktop publishing files in the `pub` folder, for example digital, and print publishing files. Common files you can put here are for example `*.afpub`, `*.indd`, `*.sla`, etc.
 
 ### Dev
+---
 Store web development files in the `dev` folder, in the according application sub-folder.
 
 #### App
 Store application in the `app` sub-folder. You can have multiple application sub-folders, if needed. Name application subfolders to match their Git repositories', for example `project-folder-structure` for this repository. Create VirtualHosts for each of these folders.
 
 ### Doc
+---
 Store document files in the `doc` folder, for example presentation, spreadsheet, word processor, and other text document files. Common files you can put here are for example `*.docx`, `*.pptx`, `*.xlsx`, etc.
 
 ### Img
+---
 Store image files in the `img` folder.
 
 ### In
+---
 Store incoming files in the `in` folder, in the according sub-folder. Organize sub-folders by date, for example store files received on 1st January 2021 in sub-folder `210101`. Don't change files, or don't create new files in these folders.
 
 ### Out
+---
 Store outgoing files in the `out` folder, in the according sub-folder. Organize sub-folders by date, for example store files sent on 1st January 2021 in sub-folder `210101`.
 
 ### Viz
+---
 Store visualization files in the `viz` folder, in the according sub-folder.
 
 #### 3d
